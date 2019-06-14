@@ -1,0 +1,20 @@
+h1 {
+  float: left;
+}
+
+img {
+  float: left;
+}
+
+.header {
+  background-color: yellow;
+  width: 100%;
+  height: 150px;
+}
+
+
+.bookride {
+  background-color: blue;
+  width: 300px;
+  float: left;
+}
